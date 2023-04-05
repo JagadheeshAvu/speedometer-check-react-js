@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  padding: 30px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  text-align: center;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 200px;
+  width: 450px;
+}
+.description {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+.range {
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.buttons {
+  text-align: center;
+}
+.button {
+  background-color: #0b69ff;
+  border-radius: 8px;
+  color: #ffffff;
+  border-width: none;
+  height: 30px;
+  width: 80px;
+  margin-left: 20px;
+}
+.btn {
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 8px;
+  color: #ffffff;
+  border-width: none;
+  height: 30px;
+  width: 100px;
+  margin-left: 20px;
+}
